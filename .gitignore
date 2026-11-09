@@ -1,0 +1,9 @@
+
+# Ignore all files by default
+*
+
+# Allow reviewed project files
+!.gitignore
+!README.md
+!requirements_project2_2.txt
+!Project2.2_Multimodal_Skin_Lesion_Classification_a1985234.ipynb
